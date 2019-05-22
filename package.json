@@ -1,0 +1,9 @@
+{
+  "name": "react-bicycle-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GuGuT3T/react-bicycle-admin.git",
+  "author": "yuankun.gu <634220187@qq.com>",
+  "license": "MIT",
+  "dependencies": {}
+}

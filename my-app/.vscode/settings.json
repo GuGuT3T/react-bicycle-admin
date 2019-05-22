@@ -1,0 +1,21 @@
+{
+	"emmet.syntaxProfiles": {
+		"javascript": "javascriptreact"
+	},
+	"editor.detectIndentation": false,
+	"editor.tabSize": 2,
+	"window.zoomLevel": 0,
+	"workbench.editor.labelFormat": "short",
+	"beautify.tabSize": 2,
+	"window.restoreWindows": "one",
+	"typescript.check.npmIsInstalled": false,
+	"explorer.confirmDragAndDrop": false,
+	"extensions.ignoreRecommendations": true,
+	"emmet.triggerExpansionOnTab": true,
+	"editor.formatOnSave": true,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"vetur.format.defaultFormatter.js": "vscode-typescript",
+	"javascript.implicitProjectConfig.experimentalDecorators": true
+}
